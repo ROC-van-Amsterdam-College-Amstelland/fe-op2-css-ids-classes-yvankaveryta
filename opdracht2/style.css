@@ -1,0 +1,15 @@
+/* Begin aangeleverde code, laten staan, niet veranderen */
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 200px;
+}
+/* Einde aangeleverde code, laten staan, niet veranderen */
+/* Vul hieronder je eigen code */
